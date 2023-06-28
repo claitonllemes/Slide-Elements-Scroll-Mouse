@@ -4,7 +4,7 @@
 
 ## **Configurações**
 
-O código abaixo adiciona uma animação aos elementos definidos de slide ao rolar a página com scroll do mouse.
+O código abaixo adiciona uma animação aos elementos definidos ao rolar a página com scroll do mouse.
 
 <br><a href="https://www.buymeacoffee.com/claitonllemes" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/99222756/210372197-a1d41894-8acc-470b-ac38-2bd1ee0a4ed9.png" width="100%"/></a><br>
 
