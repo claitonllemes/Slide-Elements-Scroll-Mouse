@@ -12,7 +12,7 @@ O código abaixo adiciona uma animação aos elementos definidos ao rolar a pág
 
 <script>
 
-    let elementos_esquerda = document.querySelectorAll("#ID_ELEMENTS");
+    let elementos_esquerda = document.querySelectorAll("#e_001, #e_002");
     let posicoes_esquerda = {};
     let intensidade_esquerda = 2;
 
@@ -21,7 +21,7 @@ O código abaixo adiciona uma animação aos elementos definidos ao rolar a pág
         posicoes_esquerda[id] = 0;
     });
 
-    let elementos_direita = document.querySelectorAll("#ID_ELEMENTS");
+    let elementos_direita = document.querySelectorAll("#e_003, #e_004");
     let posicoes_direita = {};
     let intensidade_direita = 1;
 
