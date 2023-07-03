@@ -49,5 +49,3 @@ O código abaixo adiciona uma animação aos elementos definidos ao rolar a pág
     });
 
 </script>
-
-```
